@@ -61,7 +61,8 @@ Remember that it is possible that you create a computer based on game of life(fr
   Yes, you can create a gun that can shoot `gliders`.
 
 # More info
-
++ [Digital Logic Gates on Conway's Game of Life - Part 1](https://nicholas.carlini.com/writing/2020/digital-logic-game-of-life.html)
++ [Implementation of logical functions in the Game of Life](https://www.rennard.org/alife/CollisionBasedRennard.pdf)
 + [All animated images](https://conwaylife.com/wiki/Category:Animated_images)
 + [Wiki](https://conwaylife.com/wiki/Main_Page)
 + [Golly](http://golly.sourceforge.net/)
